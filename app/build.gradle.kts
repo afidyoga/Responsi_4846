@@ -37,7 +37,6 @@ android {
         jvmTarget = "17"
     }
 
-    // Mengaktifkan ViewBinding jika diperlukan
     buildFeatures {
         viewBinding = true
     }
